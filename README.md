@@ -1,3 +1,3 @@
 # SMT-to-OS-Read-and-write
-实现多线程读者写者中读写平衡问题
-### OS_ReadWrite.cpp 为最终文件，其他为不同的尝试
+
+It is a project show a algorthm in OS that a way to read and write simultaneously
